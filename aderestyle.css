@@ -7,6 +7,7 @@ body {
     background-image: url(images/background-adare-restaurant.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 header {
@@ -15,7 +16,7 @@ header {
 }
 
 nav {
-    background-color: red;
+    background-color: rgba(0, 0, 0, 0.338);
     height: 40px;
 }
 
